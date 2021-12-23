@@ -1,0 +1,156 @@
+INSERT INTO mini_chat.messages (message) VALUES
+	 ('first'),
+	 ('second'),
+	 ('test'),
+	 ('test'),
+	 ('test'),
+	 ('test'),
+	 ('test00'),
+	 (''),
+	 ('test11'),
+	 ('');
+INSERT INTO mini_chat.messages (message) VALUES
+	 (''),
+	 ('hhh'),
+	 ('gg'),
+	 ('gg'),
+	 ('gg'),
+	 ('gg'),
+	 ('gg'),
+	 ('gg'),
+	 ('gg'),
+	 ('');
+INSERT INTO mini_chat.messages (message) VALUES
+	 ('hello'),
+	 ('hellooo'),
+	 ('hellooo'),
+	 ('hellooo'),
+	 ('hellooo'),
+	 ('hi'),
+	 ('yo'),
+	 ('jj'),
+	 ('uihhh'),
+	 ('noo');
+INSERT INTO mini_chat.messages (message) VALUES
+	 ('hello'),
+	 ('gg'),
+	 ('hello'),
+	 ('how are you'),
+	 ('bb'),
+	 ('hi'),
+	 ('holla'),
+	 ('yy'),
+	 ('66'),
+	 ('jj');
+INSERT INTO mini_chat.messages (message) VALUES
+	 ('ff'),
+	 ('tt'),
+	 ('مرحبا'),
+	 ('hello'),
+	 ('bonjour'),
+	 ('كيف حالك'),
+	 ('gg'),
+	 ('yy'),
+	 ('tt'),
+	 ('yy');
+INSERT INTO mini_chat.messages (message) VALUES
+	 ('yg'),
+	 ('uu'),
+	 ('fff'),
+	 ('ss'),
+	 ('hh'),
+	 ('oo'),
+	 ('yyyyy'),
+	 ('rrr'),
+	 ('hhh'),
+	 ('cv');
+INSERT INTO mini_chat.messages (message) VALUES
+	 ('gg'),
+	 ('tu'),
+	 ('no'),
+	 ('tt'),
+	 ('no'),
+	 ('yes'),
+	 ('tt'),
+	 ('hello'),
+	 ('hi'),
+	 ('ee');
+INSERT INTO mini_chat.messages (message) VALUES
+	 ('no'),
+	 ('rr'),
+	 ('مرحبا'),
+	 ('ff'),
+	 ('اا'),
+	 ('hello'),
+	 ('helo'),
+	 ('slm'),
+	 ('hhh'),
+	 ('gg');
+INSERT INTO mini_chat.messages (message) VALUES
+	 ('helloj'),
+	 (''),
+	 (''),
+	 (''),
+	 (''),
+	 (''),
+	 (''),
+	 (''),
+	 (''),
+	 ('');
+INSERT INTO mini_chat.messages (message) VALUES
+	 (''),
+	 (''),
+	 (''),
+	 ('ee'),
+	 ('ggd'),
+	 ('hi'),
+	 ('holla'),
+	 ('ss'),
+	 ('ssd'),
+	 ('tt');
+INSERT INTO mini_chat.messages (message) VALUES
+	 ('me'),
+	 ('ee'),
+	 ('dd'),
+	 ('jdjue'),
+	 ('jjf'),
+	 ('hh'),
+	 ('Cc amine'),
+	 ('Amiiiiiiiiiiiiine'),
+	 ('hello ikram'),
+	 ('😭');
+INSERT INTO mini_chat.messages (message) VALUES
+	 ('❤❤❤'),
+	 ('🙈🙈🙈🙈'),
+	 ('Hello🙈'),
+	 ('Rani ferhaanaaaaaaaa'),
+	 ('rani frhaaaaaaaaaaaaaaaaaaaaaaaaanaaaaaaaaaaaaaaaaaaaaaaa'),
+	 ('dd'),
+	 ('dd'),
+	 ('ddv'),
+	 ('dvd'),
+	 ('dvd');
+INSERT INTO mini_chat.messages (message) VALUES
+	 ('dv'),
+	 ('dv'),
+	 ('dvd'),
+	 ('de'),
+	 ('ddv'),
+	 ('jj'),
+	 ('hh'),
+	 ('hhhhhhhhhhhhhhhhhhhhh'),
+	 ('hhhhhhhhhhhhhh'),
+	 ('5');
+INSERT INTO mini_chat.messages (message) VALUES
+	 ('88'),
+	 ('jj'),
+	 ('tr'),
+	 ('jj'),
+	 ('bb'),
+	 ('yt'),
+	 ('jj'),
+	 ('jj'),
+	 ('uuuuuuuuuuuuuu'),
+	 ('uuuuuuuuuuuuuuuuu');
+INSERT INTO mini_chat.messages (message) VALUES
+	 ('gg');
